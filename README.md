@@ -2,8 +2,8 @@
 
 ## 1) Autoavaliação
 ### Tópicos de Conhecimento: 
-**Ferramentas de visualização de dados (Power BI, Qlik Sense e outros): 3** 
-**Manipulação e tratamento de dados com Python: 6** 
+-**Ferramentas de visualização de dados (Power BI, Qlik Sense e outros): 3** 
+-**Manipulação e tratamento de dados com Python: 6** 
 **Manipulação e tratamento de dados com Pyspark: 6**
 **Desenvolvimento de data workflows em Ambiente Azure com databricks: 5**
 **Desenvolvimento de data workflows com Airflow: 2**
